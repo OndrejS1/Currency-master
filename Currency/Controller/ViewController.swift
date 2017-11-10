@@ -206,10 +206,10 @@ class ViewController: UIViewController, UITextFieldDelegate {
                 
                 do {
                     let jsonDict = try JSONSerialization.jsonObject(with: data!, options: .mutableContainers) as! [String:Any]
-                    print(jsonDict)
+                    //print(jsonDict)
                     
                     if let ratesData = jsonDict["rates"] as? NSDictionary {
-                        print(ratesData)
+                        //print(ratesData)
                         for rate in ratesData{
                             //print("#####")
                             let name = String(describing: rate.key)
