@@ -340,10 +340,10 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = "AppIcon-1";
 				CODE_SIGN_STYLE = Automatic;
-				DEVELOPMENT_TEAM = 3H68RG2SRC;
+				DEVELOPMENT_TEAM = VW36N634GB;
 				INFOPLIST_FILE = "$(SRCROOT)/Currency/Supporting files/Info.plist";
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = ie.wit.Currency;
+				PRODUCT_BUNDLE_IDENTIFIER = cz.ondrejs1;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 4.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
@@ -355,10 +355,10 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = "AppIcon-1";
 				CODE_SIGN_STYLE = Automatic;
-				DEVELOPMENT_TEAM = 3H68RG2SRC;
+				DEVELOPMENT_TEAM = VW36N634GB;
 				INFOPLIST_FILE = "$(SRCROOT)/Currency/Supporting files/Info.plist";
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = ie.wit.Currency;
+				PRODUCT_BUNDLE_IDENTIFIER = cz.ondrejs1;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 4.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
